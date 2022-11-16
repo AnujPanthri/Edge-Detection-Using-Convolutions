@@ -1,4 +1,7 @@
 # Edge-Detection-Using-Convolutions
 
-
-![image img1](test2.jpg)
+Image             |  Edges(all RGB Edges)
+:-------------------------:|:-------------------------:
+![](test2.jpg)  |  ![](edges/test2_full.jpg)
+![](bird.jpg)  |  ![](edges/bird_full.jpg)
+![](bird2.jpg)  |  ![](edges/bird2_full.jpg)
